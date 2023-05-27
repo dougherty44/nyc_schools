@@ -1,0 +1,585 @@
+School Code,District,School Name,School Category,Program,Language,General/Special Education,Special Education Model,Principal Name,Principal Email
+01M020,1,P.S. 020 Anna Silver,Elementary,Dual Language,Chinese,General Education,Not Applicable,SARAH PINTO,SPinto4@schools.nyc.gov
+01M020,1,P.S. 020 Anna Silver,Elementary,Dual Language,Spanish,General Education,Not Applicable,SARAH PINTO,SPinto4@schools.nyc.gov
+01M184,1,P.S. 184m Shuang Wen,K-8,Dual Language,Chinese,General Education,Not Applicable,Jeremy Kabinoff,JKabino@schools.nyc.gov
+01M184,1,P.S. 184m Shuang Wen,K-8,Dual Language,Chinese,Special Education,ICT,Jeremy Kabinoff,JKabino@schools.nyc.gov
+01M188,1,P.S. 188 The Island School,K-8,Dual Language,Spanish,General Education,Not Applicable,Suany Ramos,SRamos4@schools.nyc.gov
+01M188,1,P.S. 188 The Island School,K-8,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Suany Ramos,SRamos4@schools.nyc.gov
+01M378,1,School for Global Leaders,Junior High-Intermediate-Middle,Dual Language,Chinese,General Education,Not Applicable,Keri Ricks,KRicks@schools.nyc.gov
+01M515,1,Lower East Side Preparatory High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Rene Anaya,RAnaya@schools.nyc.gov
+01M515,1,Lower East Side Preparatory High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Rene Anaya,RAnaya@schools.nyc.gov
+02M001,2,P.S. 001 Alfred E. Smith,Elementary,Dual Language,Chinese,General Education,Not Applicable,AMY HOM,AHom@schools.nyc.gov
+02M002,2,P.S. 002 Meyer London,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Silvana Ng,SNg2@schools.nyc.gov
+02M042,2,P.S. 042 Benjamin Altman,Elementary,Transitional Bilingual Education,Chinese,Special Education,ICT,May Lee,MLee4@schools.nyc.gov
+02M051,2,P.S. 051 Elias Howe,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Stephanie Lukas,SLukas@schools.nyc.gov
+02M130,2,P.S. 130 Hernando De Soto,Elementary,Transitional Bilingual Education,Chinese,Special Education,12:01:01,Renny Fong,RFong@schools.nyc.gov
+02M131,2,M.S. 131,Junior High-Intermediate-Middle,Dual Language,Chinese,General Education,Not Applicable,Benjamin Geballe,BGeballe@schools.nyc.gov
+02M131,2,M.S. 131,Junior High-Intermediate-Middle,Dual Language,Chinese,Special Education,ICT,Benjamin Geballe,BGeballe@schools.nyc.gov
+02M427,2,Manhattan Academy For Arts & Language,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Siv Boletsis,SBolets@schools.nyc.gov
+02M542,2,Manhattan Bridges High School,High school,Dual Language,Spanish,General Education,Not Applicable,George Lock,GLock@schools.nyc.gov
+02M542,2,Manhattan Bridges High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,George Lock,GLock@schools.nyc.gov
+02M545,2,High School for Dual Language and Asian Studies,High school,Dual Language,Chinese,General Education,Not Applicable,Meesun John,MJohn7@schools.nyc.gov
+02M545,2,High School for Dual Language and Asian Studies,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Meesun John,MJohn7@schools.nyc.gov
+03M075,3,P.S. 075 Emily Dickinson,Elementary,Dual Language,Spanish,General Education,Not Applicable,George Georgilakis,GGeorgi@schools.nyc.gov
+03M075,3,P.S. 075 Emily Dickinson,Elementary,Dual Language,Spanish,Special Education,ICT,George Georgilakis,GGeorgi@schools.nyc.gov
+03M084,3,P.S. 084 Lillian Weber,Elementary,Dual Language,French,General Education,Not Applicable,Evelyn Lolis,ELolis@schools.nyc.gov
+03M084,3,P.S. 084 Lillian Weber,Elementary,Dual Language,Spanish,General Education,Not Applicable,Evelyn Lolis,ELolis@schools.nyc.gov
+03M087,3,P.S. 087 William Sherman,Elementary,Dual Language,Spanish,General Education,Not Applicable,MONICA BERRY,MBerry@schools.nyc.gov
+03M145,3,"P.S. 145, The Bloomingdale School",Elementary,Dual Language,Russian,General Education,Not Applicable,NATALIA RUSSO,NRusso10@schools.nyc.gov
+03M145,3,"P.S. 145, The Bloomingdale School",Elementary,Dual Language,Spanish,General Education,Not Applicable,NATALIA RUSSO,NRusso10@schools.nyc.gov
+03M163,3,P.S. 163 Alfred E. Smith,Elementary,Dual Language,Spanish,General Education,Not Applicable,Donny Lopez,DLopez17@schools.nyc.gov
+03M165,3,P.S. 165 Robert E. Simon,Elementary,Dual Language,Spanish,General Education,Not Applicable,ARACELIS CASTELLANO FOLK,ACastellanoFolk@schools.nyc.gov
+03M180,3,P.S. 180 Hugo Newman,K-8,Dual Language,Spanish,General Education,Not Applicable,Jeneca Parker,JParker4@schools.nyc.gov
+03M242,3,P.S. 242 - The Young Diplomats Magnet Academy,Elementary,Dual Language,Italian,Special Education,ICT,DENISE GOMEZ,DGomez5@schools.nyc.gov
+03M247,3,M.S. M247 Dual Language Middle School,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Kristina Jelinek,KJelinek@schools.nyc.gov
+03M247,3,M.S. M247 Dual Language Middle School,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Kristina Jelinek,KJelinek@schools.nyc.gov
+03M256,3,Lafayette Academy,Junior High-Intermediate-Middle,Dual Language,French,General Education,Not Applicable,Brian Zager,BZager@schools.nyc.gov
+04M057,4,James Weldon Johnson,K-8,Dual Language,Spanish,General Education,Not Applicable,Yaira Jimenez,YJimene@schools.nyc.gov
+04M072,4,The Lexington Academy,K-8,Dual Language,Spanish,General Education,Not Applicable,Antonio Hernandez,AHernan7@schools.nyc.gov
+04M096,4,P.S. 096 Joseph Lanzetta,K-8,Dual Language,Spanish,General Education,Not Applicable,James Konstantinakos,JKonstantinakos@schools.nyc.gov
+04M102,4,P.S. 102 Jacques Cartier,Elementary,Dual Language,Arabic,Special Education,ICT,ERICA OCONNOR,eoconnor7@schools.nyc.gov
+04M112,4,P.S. 112 Jose Celso Barbosa,Early Childhood,Dual Language,Spanish,General Education,Not Applicable,Lisa Velazquez,LVelazq4@schools.nyc.gov
+04M112,4,P.S. 112 Jose Celso Barbosa,Early Childhood,Dual Language,Spanish,Special Education,ICT,Lisa Velazquez,LVelazq4@schools.nyc.gov
+04M155,4,P.S. 155 William Paca,Elementary,Dual Language,Spanish,General Education,Not Applicable,MARCIA TORRES,MSulit@schools.nyc.gov
+04M182,4,The Bilingual Bicultural School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Yazmin Perez,YPerez2@schools.nyc.gov
+04M182,4,The Bilingual Bicultural School,Elementary,Dual Language,Spanish,Special Education,ICT,Yazmin Perez,YPerez2@schools.nyc.gov
+04M206,4,P.S. 206 Jose Celso Barbosa,K-8,Dual Language,Spanish,General Education,Not Applicable,CAMILLE FORBES,CForbes2@schools.nyc.gov
+04M206,4,P.S. 206 Jose Celso Barbosa,K-8,Dual Language,Spanish,Special Education,ICT,CAMILLE FORBES,CForbes2@schools.nyc.gov
+04M372,4,Esperanza Preparatory Academy,Secondary School,Dual Language,Spanish,General Education,Not Applicable,Luisa Morales,LMorales14@schools.nyc.gov
+04M372,4,Esperanza Preparatory Academy,Secondary School,Dual Language,Spanish,Special Education,ICT,Luisa Morales,LMorales14@schools.nyc.gov
+04M435,4,Manhattan Center for Science and Mathematics,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,James Nicotri,JNICOTRI@schools.nyc.gov
+05M129,5,P.S. 129 John H. Finley,K-8,Dual Language,Spanish,General Education,Not Applicable,ODELPHIA PIERRE,OPierre@schools.nyc.gov
+05M161,5,P.S. 161 Pedro Albizu Campos,K-8,Dual Language,Spanish,General Education,Not Applicable,Jasmira Caceres,JCaceres4@schools.nyc.gov
+05M161,5,P.S. 161 Pedro Albizu Campos,K-8,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Jasmira Caceres,JCaceres4@schools.nyc.gov
+05M304,5,Mott Hall High School,High school,Transitional Bilingual Education,Spanish,Special Education,ICT,Douglas Geogerian,DGeoger@schools.nyc.gov
+06M004,6,P.S. 004 Duke Ellington,Elementary,Dual Language,Spanish,General Education,Not Applicable,ADAM STEVENS,ASteven2@schools.nyc.gov
+06M004,6,P.S. 004 Duke Ellington,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,ADAM STEVENS,ASteven2@schools.nyc.gov
+06M005,6,P.S. 005 Ellen Lurie,Elementary,Dual Language,Spanish,General Education,Not Applicable,Christophe Anest,CAnest@schools.nyc.gov
+06M005,6,P.S. 005 Ellen Lurie,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Christophe Anest,CAnest@schools.nyc.gov
+06M008,6,P.S. 008 Luis Belliard,Elementary,Dual Language,Spanish,General Education,Not Applicable,Washington Hernandez,WHernan@schools.nyc.gov
+06M018,6,P.S. 018 Park Terrace,K-8,Transitional Bilingual Education,Spanish,General Education,Not Applicable,CONNIE MEJIA,CMejia4@schools.nyc.gov
+06M028,6,P.S. 028 Wright Brothers,Elementary,Dual Language,Spanish,General Education,Not Applicable,LUIS FERNANDEZ,LFernan6@schools.nyc.gov
+06M028,6,P.S. 028 Wright Brothers,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,LUIS FERNANDEZ,LFernan6@schools.nyc.gov
+06M028,6,P.S. 028 Wright Brothers,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,LUIS FERNANDEZ,LFernan6@schools.nyc.gov
+06M048,6,P.S. 048 P.O. Michael J. Buczek,Elementary,Dual Language,Spanish,General Education,Not Applicable,Camilio Mejia,CMejia@schools.nyc.gov
+06M052,6,Harold O. Levy School,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,SANDRA CAPERS,SCapers@schools.nyc.gov
+06M052,6,Harold O. Levy School,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,SANDRA CAPERS,SCapers@schools.nyc.gov
+06M098,6,P.S. 098 Shorac Kappock,Elementary,Dual Language,Spanish,General Education,Not Applicable,MARITZA RODRIGUEZ,MRodriguez23@schools.nyc.gov
+06M103,6,Dos Puentes Elementary School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Victoria Hunt,VHunt@schools.nyc.gov
+06M103,6,Dos Puentes Elementary School,Elementary,Dual Language,Spanish,Special Education,ICT,Victoria Hunt,VHunt@schools.nyc.gov
+06M115,6,P.S. 115 Alexander Humboldt,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Boris Consuegra,BConsue@schools.nyc.gov
+06M128,6,P.S. 128 Audubon,Elementary,Dual Language,Spanish,General Education,Not Applicable,CARY PANTALEON,CPantal@schools.nyc.gov
+06M128,6,P.S. 128 Audubon,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01,CARY PANTALEON,CPantal@schools.nyc.gov
+06M128,6,P.S. 128 Audubon,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,CARY PANTALEON,CPantal@schools.nyc.gov
+06M132,6,P.S. 132 Juan Pablo Duarte,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Wendy Poveda,WPoveda@schools.nyc.gov
+06M143,6,J.H.S. 143 Eleanor Roosevelt,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Lakisha Mcdaniel Luke,LMcdani@schools.nyc.gov
+06M143,6,J.H.S. 143 Eleanor Roosevelt,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Lakisha Mcdaniel Luke,LMcdani@schools.nyc.gov
+06M152,6,P.S. 152 Dyckman Valley,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Estalex Rodriguez,ERodriguez14@schools.nyc.gov
+06M153,6,P.S. 153 Adam Clayton Powell,Elementary,Dual Language,Spanish,General Education,Not Applicable,Sophia Matos,SMatos3@schools.nyc.gov
+06M178,6,Professor Juan Bosch Public School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Patricia Sanchez,PSanche@schools.nyc.gov
+06M189,6,P.S. 189,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Johanny Grullon,JGrullo@schools.nyc.gov
+06M189,6,P.S. 189,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01,Johanny Grullon,JGrullo@schools.nyc.gov
+06M189,6,P.S. 189,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Johanny Grullon,JGrullo@schools.nyc.gov
+06M209,6,Hamilton Grange Middle School,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,BENJAMIN LEV,BLev@schools.nyc.gov
+06M210,6,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,K-8,Dual Language,Spanish,General Education,Not Applicable,EVELYN LINARES,Elinare@schools.nyc.gov
+06M210,6,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,K-8,Dual Language,Spanish,Special Education,ICT,EVELYN LINARES,Elinare@schools.nyc.gov
+06M311,6,Amistad Dual Language School,K-8,Dual Language,Spanish,General Education,Not Applicable,ROBIN EDMONDS,REdmonds@schools.nyc.gov
+06M311,6,Amistad Dual Language School,K-8,Dual Language,Spanish,Special Education,12:01:01,ROBIN EDMONDS,REdmonds@schools.nyc.gov
+06M311,6,Amistad Dual Language School,K-8,Dual Language,Spanish,Special Education,ICT,ROBIN EDMONDS,REdmonds@schools.nyc.gov
+06M319,6,M.S. 319 - Maria Teresa,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,JESSICA TORRES MAHEIA,jtorresmaheia@schools.nyc.gov
+06M319,6,M.S. 319 - Maria Teresa,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,JESSICA TORRES MAHEIA,jtorresmaheia@schools.nyc.gov
+06M319,6,M.S. 319 - Maria Teresa,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,JESSICA TORRES MAHEIA,jtorresmaheia@schools.nyc.gov
+06M322,6,Middle School 322,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Miriam Rosa,MRosa32@schools.nyc.gov
+06M322,6,Middle School 322,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Miriam Rosa,MRosa32@schools.nyc.gov
+06M324,6,M.S. 324 - Patria Mirabal,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,CARLOS GUZMAN,CGuzman5@schools.nyc.gov
+06M324,6,M.S. 324 - Patria Mirabal,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,CARLOS GUZMAN,CGuzman5@schools.nyc.gov
+06M328,6,Community Math & Science Prep,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Olga Quiles,OQuiles@schools.nyc.gov
+06M328,6,Community Math & Science Prep,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Olga Quiles,OQuiles@schools.nyc.gov
+06M348,6,Washington Heights Expeditionary Learning School,K-12 all grades,Dual Language,Spanish,General Education,Not Applicable,THOMAS ROCHOWICZ,TRochowicz2@schools.nyc.gov
+06M348,6,Washington Heights Expeditionary Learning School,K-12 all grades,Dual Language,Spanish,Special Education,ICT,THOMAS ROCHOWICZ,TRochowicz2@schools.nyc.gov
+06M349,6,Harbor Heights,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Tammy Nin,TNin@schools.nyc.gov
+06M462,6,The College Academy,High school,Dual Language,Spanish,General Education,Not Applicable,Timothy Sigerson,TSigerson@schools.nyc.gov
+06M463,6,High School for Media and Communications,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Sofia Russo,SRusso11@schools.nyc.gov
+06M467,6,High School for Law and Public Service,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Paula Lev,PLev@schools.nyc.gov
+06M467,6,High School for Law and Public Service,High school,Transitional Bilingual Education,Spanish,Special Education,ICT,Paula Lev,PLev@schools.nyc.gov
+06M468,6,High School for Health Careers and Sciences,High school,Dual Language,Spanish,General Education,Not Applicable,Javier Trejo,JTrejo@schools.nyc.gov
+06M468,6,High School for Health Careers and Sciences,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Javier Trejo,JTrejo@schools.nyc.gov
+06M513,6,Castle Bridge School,Elementary,Dual Language,Spanish,Special Education,ICT,David Rosas,DRosas4@schools.nyc.gov
+06M528,6,I.S. 528 Bea Fuller Rodgers School,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,CARLOS PICHARDO,CPichar@schools.nyc.gov
+06M540,6,A. Philip Randolph Campus High School,High school,Dual Language,Spanish,General Education,Not Applicable,David Fanning,DFannin@schools.nyc.gov
+06M552,6,Gregorio Luperon High School for Science and Mathematics,High school,Dual Language,Spanish,General Education,Not Applicable,YECENIA CARDOZA,YDelaro@schools.nyc.gov
+06M552,6,Gregorio Luperon High School for Science and Mathematics,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,YECENIA CARDOZA,YDelaro@schools.nyc.gov
+07X005,7,P.S. 5 Port Morris,K-8,Dual Language,Spanish,General Education,Not Applicable,Danielle Keane,DKeane2@schools.nyc.gov
+07X005,7,P.S. 5 Port Morris,K-8,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Danielle Keane,DKeane2@schools.nyc.gov
+07X018,7,P.S. 018 John Peter Zenger,Elementary,Dual Language,Spanish,General Education,Not Applicable,Anjelica Jordan,AJordan4@schools.nyc.gov
+07X025,7,P.S. 025 Bilingual School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Raquel Pevey,RPevey@schools.nyc.gov
+07X025,7,P.S. 025 Bilingual School,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Raquel Pevey,RPevey@schools.nyc.gov
+07X025,7,P.S. 025 Bilingual School,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01,Raquel Pevey,RPevey@schools.nyc.gov
+07X025,7,P.S. 025 Bilingual School,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,Raquel Pevey,RPevey@schools.nyc.gov
+07X029,7,P.S./M.S. 029 Melrose School,K-8,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Danielle Presto,DPresto@schools.nyc.gov
+07X030,7,P.S. 030 Wilton,Elementary,Dual Language,Spanish,General Education,Not Applicable,Debra Michaux,DMichau@schools.nyc.gov
+07X049,7,P.S. 049 Willis Avenue,Elementary,Dual Language,Spanish,General Education,Not Applicable,Monica Brock,MBrock2@schools.nyc.gov
+07X161,7,P.S. 161 Juan Ponce De Leon School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Brian Blough,BBlough6@schools.nyc.gov
+07X223,7,The Laboratory School of Finance and Technology: X223,Secondary School,Dual Language,Spanish,General Education,Not Applicable,ASHLEY DOWNS,ADowns@schools.nyc.gov
+07X277,7,P.S. 277,Elementary,Dual Language,Spanish,General Education,Not Applicable,NATASHA BRACEY FERGUSON,NBraceyferguson@schools.nyc.gov
+07X298,7,Academy of Public Relations,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01,AMY ANDINO-FLOHR,AAndino@schools.nyc.gov
+07X298,7,Academy of Public Relations,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,ICT,AMY ANDINO-FLOHR,AAndino@schools.nyc.gov
+07X584,7,I.S. 584,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,TANNIS SERTIMA,TSertima@schools.nyc.gov
+07X600,7,Alfred E. Smith Career and Technical Education High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Evan Schwartz,eschwar2@schools.nyc.gov
+07X670,7,Health Opportunities High School,High school,Dual Language,Spanish,General Education,Not Applicable,ANDREW CLAYMAN,AClayman@schools.nyc.gov
+08X048,8,P.S. 048 Joseph R. Drake,Elementary,Dual Language,Spanish,General Education,Not Applicable,JOSEPH DICRESCENTO,JDicres@schools.nyc.gov
+08X123,8,J.H.S. 123 James M. Kieran,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,RICHARD HALLENBECK JR,RHallenbeckJr@schools.nyc.gov
+08X152,8,P.S. 152 Evergreen,Elementary,Dual Language,Spanish,General Education,Not Applicable,Christine Baez,CBaez4@schools.nyc.gov
+08X333,8,The Longwood Academy of Discovery,Elementary,Dual Language,Spanish,General Education,Not Applicable,Victoria Najera,VNajera@schools.nyc.gov
+08X333,8,The Longwood Academy of Discovery,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Victoria Najera,VNajera@schools.nyc.gov
+08X432,8,Bronx Bridges High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Nelsie Castillo,NCastillo@schools.nyc.gov
+08X448,8,Soundview Academy for Culture and Scholarship,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,WILLIAM FRACKELTON,WFRACK@schools.nyc.gov
+09X011,9,P.S. 011 Highbridge,Elementary,Dual Language,Spanish,General Education,Not Applicable,DAISY JOY RODRIGO,DJoyRodrigo@schools.nyc.gov
+09X028,9,P.S. 028 Mount Hope,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Christopher Lothian,CLothia@schools.nyc.gov
+09X053,9,P.S. 053 Basheer Quisim,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Sharda Flores,SFlores20@schools.nyc.gov
+09X058,9,P.S. 058,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,VELMA GUNN,VGunn@schools.nyc.gov
+09X070,9,P.S. 070 Max Schoenfeld,Elementary,Dual Language,Spanish,General Education,Not Applicable,Roxanne Ledda,RLedda@schools.nyc.gov
+09X070,9,P.S. 070 Max Schoenfeld,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Roxanne Ledda,RLedda@schools.nyc.gov
+09X073,9,P.S. 073 Bronx,Elementary,Dual Language,Spanish,General Education,Not Applicable,Vivian Bueno,VBueno@schools.nyc.gov
+09X109,9,P.S. 109 Sedgwick,Elementary,Dual Language,Spanish,General Education,Not Applicable,Josette Claudio,JClaudi@schools.nyc.gov
+09X114,9,P.S. X114 - Luis Llorens Torres Schools,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Jacqueline King Robinson,JKingrobinson2@schools.nyc.gov
+09X114,9,P.S. X114 - Luis Llorens Torres Schools,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Jacqueline King Robinson,JKingrobinson2@schools.nyc.gov
+09X117,9,I.S. 117 Joseph H. Wade,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,DELISE JONES,DJones8@schools.nyc.gov
+09X117,9,I.S. 117 Joseph H. Wade,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,DELISE JONES,DJones8@schools.nyc.gov
+09X126,9,P.S. 126 Dr Marjorie H Dunbar,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Luis Quan,LQuan@schools.nyc.gov
+09X126,9,P.S. 126 Dr Marjorie H Dunbar,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Luis Quan,LQuan@schools.nyc.gov
+09X163,9,P.S. 163 Arthur A. Schomburg,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Barbara Headley,BHeadle2@schools.nyc.gov
+09X170,9,P.S. 170,Early Childhood,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Sonia Acevedo Suarez,SAceved@schools.nyc.gov
+09X199,9,P.S. 199X - The Shakespeare School,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,YASMIN QUEZADA,YQuezad@schools.nyc.gov
+09X218,9,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,K-8,Dual Language,Spanish,General Education,Not Applicable,SERGIO CACERES,SCacere@schools.nyc.gov
+09X218,9,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,K-8,Dual Language,Spanish,Special Education,ICT,SERGIO CACERES,SCacere@schools.nyc.gov
+09X219,9,I.S. 219 New Venture School,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Sabrina Cruz,SCruz2@schools.nyc.gov
+09X219,9,I.S. 219 New Venture School,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Sabrina Cruz,SCruz2@schools.nyc.gov
+09X232,9,I.S. 232,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Desiree Resto,DResto2@schools.nyc.gov
+09X232,9,I.S. 232,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Desiree Resto,DResto2@schools.nyc.gov
+09X274,9,The New American Academy at Roberto Clemente State Park,Elementary,Dual Language,Spanish,General Education,Not Applicable,Pepe Gutierrez,PGutierrez@schools.nyc.gov
+09X294,9,The Walton Avenue School,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Nicole Perkins,NPerkin2@schools.nyc.gov
+09X311,9,Lucero Elementary School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Angela Tolano,ATolano@schools.nyc.gov
+09X311,9,Lucero Elementary School,Elementary,Dual Language,Spanish,Special Education,ICT,Angela Tolano,ATolano@schools.nyc.gov
+09X313,9,I.S. 313 School of Leadership Development,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,EARL BRATHWAITE,EBrathw2@schools.nyc.gov
+09X339,9,I.S. 339,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Kim Outerbridge,KOuterb@schools.nyc.gov
+09X365,9,Academy for Language and Technology,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Jose Vinales,JVinales@schools.nyc.gov
+09X443,9,The Family School,Elementary,Dual Language,Spanish,General Education,Not Applicable,ROWENA PENN,RPenn@schools.nyc.gov
+09X454,9,Science and Technology Academy: A Mott Hall School,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,PATRICK AWOSOGBA,PAwosog@schools.nyc.gov
+10X008,10,P.S. 008 Isaac Varian,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,CLAUDIA TAHIRAJ-SADRIJA,CTahirajSadrija@schools.nyc.gov
+10X009,10,P.S. 9 Ryer Avenue Elementary School,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Kinsley Jabouin,KJabouin3@schools.nyc.gov
+10X032,10,P.S. 032 Belmont,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Rebecca Lew,RLew2@schools.nyc.gov
+10X033,10,P.S. 033 Timothy Dwight,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,LYNETTE SANTOS,LSantos4@schools.nyc.gov
+10X045,10,Thomas C. Giordano Middle School 45,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Doreen Kendall,DKendall@schools.nyc.gov
+10X046,10,P.S. 046 Edgar Allan Poe,Elementary,Dual Language,Spanish,General Education,Not Applicable,JENNIFER ALEXANDER ADE,jalexan@schools.nyc.gov
+10X046,10,P.S. 046 Edgar Allan Poe,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,JENNIFER ALEXANDER ADE,jalexan@schools.nyc.gov
+10X046,10,P.S. 046 Edgar Allan Poe,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,JENNIFER ALEXANDER ADE,jalexan@schools.nyc.gov
+10X054,10,P.S./I.S. 54,Elementary,Dual Language,Spanish,General Education,Not Applicable,Indhira Ventura,iventur@schools.nyc.gov
+10X077,10,Bedford Park Elementary School,Elementary,Dual Language,Spanish,General Education,Not Applicable,CAROLYN HEREDIA,CHeredi@schools.nyc.gov
+10X080,10,J.H.S. 080 The Mosholu Parkway,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Kenyatta Williams,0
+10X080,10,J.H.S. 080 The Mosholu Parkway,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Kenyatta Williams,0
+10X085,10,P.S. 085 Great Expectations,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Sara Medina,SMedina3@schools.nyc.gov
+10X086,10,P.S. 086 Kingsbridge Heights,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Fiona Tyson,FTyson@schools.nyc.gov
+10X086,10,P.S. 086 Kingsbridge Heights,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Fiona Tyson,FTyson@schools.nyc.gov
+10X091,10,P.S. 091 Bronx,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Meridith Struhl Nasjlett,MStruhlNasjlett@schools.nyc.gov
+10X094,10,P.S. 094 Kings College School,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,DIANA BAEZ,DBaez14@schools.nyc.gov
+10X095,10,P.S. 095 Sheila Mencher,K-8,Transitional Bilingual Education,Spanish,General Education,Not Applicable,SERGE DAVIS,SDavis6@schools.nyc.gov
+10X095,10,P.S. 095 Sheila Mencher,K-8,Transitional Bilingual Education,Spanish,Special Education,12:01:01,SERGE DAVIS,SDavis6@schools.nyc.gov
+10X095,10,P.S. 095 Sheila Mencher,K-8,Transitional Bilingual Education,Spanish,Special Education,ICT,SERGE DAVIS,SDavis6@schools.nyc.gov
+10X118,10,J.H.S. 118 William W. Niles,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Carmen Felix,CFelix2@schools.nyc.gov
+10X118,10,J.H.S. 118 William W. Niles,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,ICT,Carmen Felix,CFelix2@schools.nyc.gov
+10X205,10,P.S. 205 Fiorello LaGuardia,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Jenneth Santiago,JSantiago3@schools.nyc.gov
+10X206,10,I.S. 206 Ann Mersereau,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,RAFAEL CABRAL,RCabral2@schools.nyc.gov
+10X206,10,I.S. 206 Ann Mersereau,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,RAFAEL CABRAL,RCabral2@schools.nyc.gov
+10X206,10,I.S. 206 Ann Mersereau,Junior High-Intermediate-Middle,Transitional Bilingual Education,Arabic,Special Education,ICT,RAFAEL CABRAL,RCabral2@schools.nyc.gov
+10X206,10,I.S. 206 Ann Mersereau,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,ICT,RAFAEL CABRAL,RCabral2@schools.nyc.gov
+10X207,10,P.S. 207,Elementary,Dual Language,Spanish,General Education,Not Applicable,TARA OBRIEN,TObrien2@schools.nyc.gov
+10X226,10,P.S. 226,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,GLORIA DARDEN,GDarden@schools.nyc.gov
+10X244,10,The New School for Leadership and Journalism,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Eduardo Mora,EMora2@schools.nyc.gov
+10X244,10,The New School for Leadership and Journalism,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Eduardo Mora,EMora2@schools.nyc.gov
+10X246,10,P.S. 246 Poe Center,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Andrea Johnson,AJohnso21@schools.nyc.gov
+10X254,10,I.S. 254,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,JAVIER OCAMPO,JOcampo@schools.nyc.gov
+10X279,10,"P.S. 279 Captain Manuel Rivera, Jr.",K-8,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Jean Dalton Encke,JDalton2@schools.nyc.gov
+10X291,10,P.S. 291,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,CARLOS VELEZ,cvelez1@schools.nyc.gov
+10X331,10,The Bronx School of Young Leaders,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,SERAPHA CRUZ,SCruz3@schools.nyc.gov
+10X340,10,P.S. 340,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Alexei Nichols,anichol@schools.nyc.gov
+10X342,10,International School for Liberal Arts,Secondary School,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Gicel Adon,GAdon@schools.nyc.gov
+10X342,10,International School for Liberal Arts,Secondary School,Transitional Bilingual Education,Spanish,Special Education,ICT,Gicel Adon,GAdon@schools.nyc.gov
+10X351,10,Bronx Collaborative High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Brett Schneider,BSchneider@schools.nyc.gov
+10X353,10,World View High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Martin Hernandez,MHernan19@schools.nyc.gov
+10X363,10,Academy For Personal Leadership And Excellence,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Angelo Ledda,ALedda@schools.nyc.gov
+10X368,10,In-Tech Academy (M.S. / High School 368),Secondary School,Transitional Bilingual Education,Spanish,General Education,Not Applicable,David Weissberg,DWeissberg@schools.nyc.gov
+10X374,10,Knowledge and Power Preparatory Academy International High School (Kappa),High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Katheryn Fierman,KSmith3@schools.nyc.gov
+10X386,10,School for Environmental Citizenship,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Lynnann Fox,LFox2@schools.nyc.gov
+10X390,10,M.S. 390,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,ANDREA VARONA VARGAS,avarona@schools.nyc.gov
+10X390,10,M.S. 390,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,ANDREA VARONA VARGAS,avarona@schools.nyc.gov
+10X391,10,The Angelo Patri Middle School,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,ANGEL ORTEGA,AOrtega@schools.nyc.gov
+10X433,10,High School for Teaching and the Professions,High school,Transitional Bilingual Education,Spanish,Special Education,ICT,"Hernandez, Roberto",RHernandez@schools.nyc.gov
+10X447,10,Creston Academy,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Mellissa Miller,MMiller3@schools.nyc.gov
+11X103,11,P.S. 103 Hector Fontanez,Elementary,Dual Language,Spanish,General Education,Not Applicable,Farid Reyes,FReyes2@schools.nyc.gov
+11X105,11,P.S. 105 Sen Abraham Bernstein,Elementary,Dual Language,Spanish,General Education,Not Applicable,CHRISTOPHE EUSTACE,CEustac@schools.nyc.gov
+11X127,11,J.H.S. 127 The Castle Hill,Junior High-Intermediate-Middle,Transitional Bilingual Education,Bengali,General Education,Not Applicable,Bryant Jackson,BJackso11@schools.nyc.gov
+11X127,11,J.H.S. 127 The Castle Hill,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,ICT,Bryant Jackson,BJackso11@schools.nyc.gov
+12X047,12,P.S. 047 John Randolph,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,THOMAS GUARNIERI,TGuarni@schools.nyc.gov
+12X098,12,J.H.S. 098 Herman Ridder,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Claudia Rivera,CRivera42@schools.nyc.gov
+12X150,12,P.S. 150 Charles James Fox,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,NORMA SANCHEZ,NSanche6@schools.nyc.gov
+12X150,12,P.S. 150 Charles James Fox,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01,NORMA SANCHEZ,NSanche6@schools.nyc.gov
+12X195,12,P.S. 195,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Richard Webster,RWebster@schools.nyc.gov
+12X196,12,P.S. 196,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Yvette Lopez Diaz,YLopez2@schools.nyc.gov
+12X214,12,P.S. 214,K-8,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Melissa De Jesus,MDeJesus11@schools.nyc.gov
+12X458,12,Samara Community School,Elementary,Dual Language,Spanish,General Education,Not Applicable,DANIELLE DERRIG,DDerrig@schools.nyc.gov
+12X458,12,Samara Community School,Elementary,Dual Language,Spanish,Special Education,ICT,DANIELLE DERRIG,DDerrig@schools.nyc.gov
+12X463,12,Urban Scholars Community School,Elementary,Dual Language,Spanish,General Education,Not Applicable,DEBRA JONES,DJones51@schools.nyc.gov
+12X550,12,High School of World Cultures,High school,Dual Language,Spanish,General Education,Not Applicable,RAMON NAMNUN,RNamnun@schools.nyc.gov
+12X595,12,P.S. 595,Elementary,Dual Language,Spanish,General Education,Not Applicable,SUHEIL PIMENTEL,SPimentel4@schools.nyc.gov
+12X595,12,P.S. 595,Elementary,Dual Language,Spanish,Special Education,ICT,SUHEIL PIMENTEL,SPimentel4@schools.nyc.gov
+13K003,13,P.S. 003 The Bedford Village,Elementary,Dual Language,French,General Education,Not Applicable,KRISTINA BEECHER,KBeeche@schools.nyc.gov
+13K009,13,Public School 9 The Sarah Smith Garnet School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Sha wond Williams Credle,SWilliams@schools.nyc.gov
+13K020,13,P.S. 020 Clinton Hill,Elementary,Dual Language,French,General Education,Not Applicable,Lena Barbera,LBarbera@schools.nyc.gov
+13K046,13,P.S. 046 Edward C. Blum,Elementary,Dual Language,Spanish,General Education,Not Applicable,Alex Braverman,ABraverman6@schools.nyc.gov
+13K054,13,P.S. 054 Samuel C. Barnes,Elementary,Dual Language,Spanish,General Education,Not Applicable,Emma Pelaezvelazquez,EPelaezvelazquez@schools.nyc.gov
+13K113,13,M.S. 113 Ronald Edmonds Learning Center,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Dawnique Daughtry,DDaught@schools.nyc.gov
+13K133,13,P.S. 133 William A. Butler,Elementary,Dual Language,French,General Education,Not Applicable,HEATHER FOSTER MANN,HFoster@schools.nyc.gov
+13K133,13,P.S. 133 William A. Butler,Elementary,Dual Language,Spanish,General Education,Not Applicable,HEATHER FOSTER MANN,HFoster@schools.nyc.gov
+13K595,13,Bedford Academy High School,High school,Dual Language,French,General Education,Not Applicable,ADOFO MUHAMMAD,AMuhammed@schools.nyc.gov
+13K691,13,Fort Greene Preparatory Academy,Junior High-Intermediate-Middle,Dual Language,French,General Education,Not Applicable,Paula Lettiere,PLettie2@schools.nyc.gov
+13K691,13,Fort Greene Preparatory Academy,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Paula Lettiere,PLettie2@schools.nyc.gov
+14K018,14,P.S. 018 Edward Bush,Elementary,Dual Language,Spanish,General Education,Not Applicable,Michael Lee,MLee22@schools.nyc.gov
+14K034,14,P.S. 034 Oliver H. Perry,Elementary,Dual Language,Polish,General Education,Not Applicable,Alain Beugoms,ABeugoms@schools.nyc.gov
+14K050,14,J.H.S. 050 John D. Wells,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Benjamin Honoroff,BHonoro@schools.nyc.gov
+14K050,14,J.H.S. 050 John D. Wells,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Benjamin Honoroff,BHonoro@schools.nyc.gov
+14K059,14,P.S. 059 William Floyd,Elementary,Dual Language,Spanish,General Education,Not Applicable,Cherry ann Joseph Hislop,CJoseph8@schools.nyc.gov
+14K071,14,Juan Morel Campos Secondary School,Secondary School,Transitional Bilingual Education,Spanish,General Education,Not Applicable,ESTHER SHALI OGLI,EShaliO@schools.nyc.gov
+14K071,14,Juan Morel Campos Secondary School,Secondary School,Transitional Bilingual Education,Yiddish,Special Education,12:01:01,ESTHER SHALI OGLI,EShaliO@schools.nyc.gov
+14K084,14,P.S. 084 Jose De Diego,K-8,Dual Language,Spanish,General Education,Not Applicable,Sereida Rodriguez,SRodrig12@schools.nyc.gov
+14K110,14,P.S. 110 The Monitor,Elementary,Dual Language,French,General Education,Not Applicable,Dana Raciunas,DRaciun@schools.nyc.gov
+14K132,14,P.S. 132 The Conselyea School,Elementary,Dual Language,Italian,General Education,Not Applicable,BETH LUBECK,BLubeck@schools.nyc.gov
+14K147,14,P.S. 147 Isaac Remsen,Elementary,Dual Language,Japanese,General Education,Not Applicable,Sandra Noyola,SNoyola@schools.nyc.gov
+14K196,14,P.S. 196 Ten Eyck,Elementary,Dual Language,Spanish,General Education,Not Applicable,JANINE SANTAROMITA,JColon@schools.nyc.gov
+14K250,14,P.S. 250 George H. Lindsay,Elementary,Dual Language,Chinese,General Education,Not Applicable,Rodney Young,RYoung13@schools.nyc.gov
+14K257,14,P.S. 257 John F. Hylan,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,IDALYS CAMACHO,ICamacho2@schools.nyc.gov
+14K257,14,P.S. 257 John F. Hylan,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,IDALYS CAMACHO,ICamacho2@schools.nyc.gov
+14K318,14,I.S. 318 Eugenio Maria De Hostos,Junior High-Intermediate-Middle,Dual Language,French,General Education,Not Applicable,Leander Windley,LWindle@schools.nyc.gov
+14K319,14,P.S. 319,Early Childhood,Dual Language,Spanish,General Education,Not Applicable,ALEYDA ZAMORA MARTINEZ,AZamora@schools.nyc.gov
+14K380,14,P.S. 380 John Wayne Elementary,Elementary,Dual Language,Spanish,General Education,Not Applicable,VICTORIA PRISINZANO,VPrisin@schools.nyc.gov
+14K380,14,P.S. 380 John Wayne Elementary,Elementary,Transitional Bilingual Education,Yiddish,Special Education,12:01:01,VICTORIA PRISINZANO,VPrisin@schools.nyc.gov
+14K414,14,Brooklyn Arbor Elementary School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Eva Irizarry,EIrizarry3@schools.nyc.gov
+14K454,14,The Williamsburg High School of Art and Technology,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Cordel Blair,CBlair5@schools.nyc.gov
+14K474,14,PROGRESS High School for Professional Careers,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Jasmine Pena,JPena12@schools.nyc.gov
+14K477,14,East Williamsburg Scholars Academy,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Rosemary Vega,RVega4@schools.nyc.gov
+14K478,14,"The High School for Enterprise, Business and Technology",High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Holger Carrillo,HCarril@schools.nyc.gov
+14K582,14,M.S. 582,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Jeffrey Merced,JMerced4@schools.nyc.gov
+15K001,15,P.S. 001 The Bergen,Elementary,Dual Language,Spanish,General Education,Not Applicable,WANDA RAMIREZ,WLopez3@schools.nyc.gov
+15K015,15,P.S. 015 Patrick F. Daly,Elementary,Dual Language,Spanish,General Education,Not Applicable,Julie Cavanagh,JCavanagh@schools.nyc.gov
+15K024,15,P.S. 024,Elementary,Dual Language,Spanish,General Education,Not Applicable,Maria Diaz,MDiaz26@schools.nyc.gov
+15K024,15,P.S. 024,Elementary,Dual Language,Spanish,Special Education,ICT,Maria Diaz,MDiaz26@schools.nyc.gov
+15K058,15,P.S. 058 The Carroll,Elementary,Dual Language,French,General Education,Not Applicable,Katherine Dellostritto,KDellostritto2@schools.nyc.gov
+15K088,15,J.H.S. 088 Peter Rouget,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,AILENE MITCHELL,AMitche2@schools.nyc.gov
+15K094,15,P.S. 094 The Henry Longfellow,Elementary,Dual Language,Chinese,General Education,Not Applicable,CRISTINA GONZALEZ,CGonzalez62@schools.nyc.gov
+15K094,15,P.S. 094 The Henry Longfellow,Elementary,Dual Language,Chinese,Special Education,12:01:01,CRISTINA GONZALEZ,CGonzalez62@schools.nyc.gov
+15K094,15,P.S. 094 The Henry Longfellow,Elementary,Dual Language,Chinese,Special Education,ICT,CRISTINA GONZALEZ,CGonzalez62@schools.nyc.gov
+15K094,15,P.S. 094 The Henry Longfellow,Elementary,Dual Language,Spanish,General Education,Not Applicable,CRISTINA GONZALEZ,CGonzalez62@schools.nyc.gov
+15K124,15,P.S. 124 Silas B. Dutcher,Elementary,Dual Language,Spanish,General Education,Not Applicable,Maria Interlandi,MInterl@schools.nyc.gov
+15K136,15,I.S. 136 Charles O. Dewey,Junior High-Intermediate-Middle,Dual Language,French,General Education,Not Applicable,Amanda Bueno,ABueno3@schools.nyc.gov
+15K136,15,I.S. 136 Charles O. Dewey,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Amanda Bueno,ABueno3@schools.nyc.gov
+15K136,15,I.S. 136 Charles O. Dewey,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Amanda Bueno,ABueno3@schools.nyc.gov
+15K169,15,P.S. 169 Sunset Park,Elementary,Dual Language,Chinese,General Education,Not Applicable,Emily Hurst,EHurst@schools.nyc.gov
+15K169,15,P.S. 169 Sunset Park,Elementary,Dual Language,Spanish,General Education,Not Applicable,Emily Hurst,EHurst@schools.nyc.gov
+15K230,15,P.S. 230 Doris L. Cohen,Elementary,Dual Language,Spanish,General Education,Not Applicable,MARIA DELLA RAGIONE,MDellaRagione@schools.nyc.gov
+15K463,14,Cyberarts Studio Academy,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Sharon Evans,SEvans@schools.nyc.gov
+15K497,15,The Boerum Hill School for International Studies,Secondary School,Dual Language,French,General Education,Not Applicable,Samantha Schmoeger,SSchmoeger@schools.nyc.gov
+15K497,14,The Boerum Hill School for International Studies,Secondary School,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Samantha Schmoeger,SSchmoeger@schools.nyc.gov
+15K516,15,Sunset Park Avenues Elementary School,Elementary,Dual Language,Spanish,General Education,Not Applicable,JESSICA KNUDSON,JKnudson2@schools.nyc.gov
+15K519,15,Cobble Hill School of American Studies,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Elizabeth Rodriguez,0
+15K592,15,Khalil Gibran International Academy,High school,Transitional Bilingual Education,Arabic,General Education,Not Applicable,Amanda Hunter,AHunter3@schools.nyc.gov
+15K667,15,Sunset Park High School,High school,Dual Language,Spanish,General Education,Not Applicable,Victoria Antonini,VAntoni2@schools.nyc.gov
+15K667,15,Sunset Park High School,High school,Dual Language,Spanish,Special Education,ICT,Victoria Antonini,VAntoni2@schools.nyc.gov
+15K821,15,Sunset Park Prep,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Jennifer Spalding,JSpalding@schools.nyc.gov
+15K896,15,The School of Creativity and Innovation,Elementary,Dual Language,Chinese,General Education,Not Applicable,RUTH RODRIGUEZ,RRodriguez@schools.nyc.gov
+15K896,15,The School of Creativity and Innovation,Elementary,Dual Language,Spanish,General Education,Not Applicable,RUTH RODRIGUEZ,RRodriguez@schools.nyc.gov
+16K005,16,P.S. 005 Dr. Ronald McNair,Elementary,Dual Language,French,General Education,Not Applicable,LENA GATES,LGates@schools.nyc.gov
+16K040,16,P.S. 040 George W. Carver,Elementary,Dual Language,Spanish,General Education,Not Applicable,Louise Antoine,LAntoin@schools.nyc.gov
+16K243,16,P.S. 243K- The Weeksville School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Judith James,JJames4@schools.nyc.gov
+16K627,16,Brighter Choice Community School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Jeremy Daniel,JDaniel6@schools.nyc.gov
+17K012,17,Dr. Jacqueline Peek-Davis School,Elementary,Dual Language,Chinese (Mandarin),General Education,Not Applicable,SHAMIKA WATSON,SWatson16@schools.nyc.gov
+17K189,17,P.S. 189 The Bilingual Center,K-8,Dual Language,Haitian Creole,General Education,Not Applicable,BERTHE FAUSTIN,BFausti@schools.nyc.gov
+17K189,17,P.S. 189 The Bilingual Center,K-8,Dual Language,Spanish,General Education,Not Applicable,BERTHE FAUSTIN,BFausti@schools.nyc.gov
+17K189,17,P.S. 189 The Bilingual Center,K-8,Transitional Bilingual Education,Haitian Creole,General Education,Not Applicable,BERTHE FAUSTIN,BFausti@schools.nyc.gov
+17K189,17,P.S. 189 The Bilingual Center,K-8,Transitional Bilingual Education,Spanish,General Education,Not Applicable,BERTHE FAUSTIN,BFausti@schools.nyc.gov
+17K249,17,P.S. 249 The Caton,Elementary,Dual Language,Spanish,General Education,Not Applicable,ELISA BROWN,EBrown4@schools.nyc.gov
+17K316,17,P.S. 316 Elijah Stroud,Elementary,Dual Language,Spanish,General Education,Not Applicable,Olga Maluf,OMaluf@schools.nyc.gov
+17K352,17,Ebbets Field Middle School,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,SHERY ANN ATKINSON,SAtkinson@schools.nyc.gov
+17K600,17,Clara Barton High School,High school,Transitional Bilingual Education,Haitian Creole,General Education,Not Applicable,RICHARD FORMAN,RForman@schools.nyc.gov
+17K705,17,Brooklyn Arts and Science Elementary School,Elementary,Dual Language,Spanish,General Education,Not Applicable,VALERIE MACEY,VMacey@schools.nyc.gov
+17K770,17,P.S. 770 New American Academy,Elementary,Dual Language,Spanish,General Education,Not Applicable,Jessica Saratovsky,JSaratovsky@schools.nyc.gov
+18K276,18,P.S. 276 Louis Marshall,Elementary,Dual Language,Hatian Creole,General Education,Not Applicable,Jennifer Troman,JTroman@schools.nyc.gov
+18K578,18,Brooklyn Bridge Academy,High school,Dual Language,Haitian Creole,Special Education,ICT,Max Jean Paul,MJeanPa@schools.nyc.gov
+19K007,19,P.S. 007 Abraham Lincoln,Elementary,Dual Language,Spanish,General Education,Not Applicable,Andre Barrett,ABarret4@schools.nyc.gov
+19K089,19,P.S. 089 Cypress Hills,K-8,Dual Language,Spanish,General Education,Not Applicable,IRENE LEON,ILeon@schools.nyc.gov
+19K089,19,P.S. 089 Cypress Hills,K-8,Dual Language,Spanish,Special Education,12:01:01,IRENE LEON,ILeon@schools.nyc.gov
+19K089,19,P.S. 089 Cypress Hills,K-8,Dual Language,Spanish,Special Education,ICT,IRENE LEON,ILeon@schools.nyc.gov
+19K108,19,P.S. 108 Sal Abbracciamento,Elementary,Dual Language,Spanish,General Education,Not Applicable,CONSTANCE HAHN,CHahn3@schools.nyc.gov
+19K159,19,P.S. 159 Isaac Pitkin,Elementary,Transitional Bilingual Education,Bengali,General Education,Not Applicable,Neffertiti Lee,NLee6@schools.nyc.gov
+19K171,19,I.S. 171 Abraham Lincoln,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Indira Mota,IMota2@schools.nyc.gov
+19K171,19,I.S. 171 Abraham Lincoln,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Indira Mota,IMota2@schools.nyc.gov
+19K214,19,P.S. 214 Michael Friedsam,Elementary,Dual Language,Bengali,General Education,Not Applicable,Sharon Mahabir,SMahabi@schools.nyc.gov
+19K290,19,P.S. 290 Juan Morel Campos,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,BRIGITTE NEWELL,BNewell@schools.nyc.gov
+19K345,19,P.S. 345 Patrolman Robert Bolden,Elementary,Dual Language,Spanish,General Education,Not Applicable,Paul Thomas,PThomas3@schools.nyc.gov
+19K504,19,High School for Civil Rights,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Sheila Tomlin,STomlin@schools.nyc.gov
+19K507,19,Performing Arts and Technology High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Franklin Encarnacion,FEncarn@schools.nyc.gov
+19K583,19,Multicultural High School,High school,Dual Language,Spanish,General Education,Not Applicable,PETER NG A FOOK,PNgAFook@schools.nyc.gov
+19K583,19,Multicultural High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,PETER NG A FOOK,PNgAFook@schools.nyc.gov
+19K683,19,School for Classics High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Nicole Tancredi,NTancredi@schools.nyc.gov
+20K030,20,P.S./I.S. 30 Mary White Ovington,K-8,Dual Language,Arabic,General Education,Not Applicable,Carol Heeraman,CHeeraman@schools.nyc.gov
+20K069,20,P.S. 69 Vincent D. Grippo School,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,JAYNEMARIE CAPETANAKIS,JCapeta2@schools.nyc.gov
+20K105,20,P.S. 105 The Blythebourne,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Shirley Chen,SChen4@schools.nyc.gov
+20K112,20,P.S. 112 Lefferts Park,Elementary,Dual Language,Italian,General Education,Not Applicable,Jennifer Potter,JPotter3@schools.nyc.gov
+20K127,20,P.S. 127 Mckinley Park,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Agatha Alicandro,AAlicandro@schools.nyc.gov
+20K160,20,P.S. 160 William T. Sampson,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,MARGARET RUSSO,MRusso@schools.nyc.gov
+20K160,20,P.S. 160 William T. Sampson,Elementary,Transitional Bilingual Education,Chinese,Special Education,12:01:01,MARGARET RUSSO,MRusso@schools.nyc.gov
+20K170,20,Ralph A. Fabrizio School,Elementary,Dual Language,Chinese,General Education,Not Applicable,ZHEN WU,ZWu@schools.nyc.gov
+20K176,20,P.S. 176 Ovington,Elementary,Dual Language,Spanish,Special Education,ICT,ELIZABETH CULKIN,ECulkin@schools.nyc.gov
+20K186,20,P.S. 186 Dr. Irving A Gladstone,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,BAYAN CADOTTE,BCadotte@schools.nyc.gov
+20K200,20,P.S. 200 Benson School,Elementary,Dual Language,Russian,General Education,Not Applicable,Danielle Nola,0
+20K200,20,P.S. 200 Benson School,Elementary,Transitional Bilingual Education,Russian,General Education,Not Applicable,Danielle Nola,0
+20K201,20,The Madeleine Brennan School,Junior High-Intermediate-Middle,Dual Language,Italian,General Education,Not Applicable,Robert Ciulla,RCiulla@schools.nyc.gov
+20K204,20,P.S. 204 Vince Lombardi,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Roseann Sainato,RSainato@schools.nyc.gov
+20K205,20,P.S. 205 Clarion,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,FEIGA MANDEL,FMandel3@schools.nyc.gov
+20K220,20,J.H.S. 220 John J. Pershing,Junior High-Intermediate-Middle,Transitional Bilingual Education,Chinese,General Education,Not Applicable,SHELDON DEMPSTER,SDempster@schools.nyc.gov
+20K220,20,J.H.S. 220 John J. Pershing,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,SHELDON DEMPSTER,SDempster@schools.nyc.gov
+20K229,20,P.S. 229 Dyker,K-8,Dual Language,Chinese (Cantonese),General Education,Not Applicable,William Kirk,WKirk@schools.nyc.gov
+20K259,20,J.H.S. 259 William McKinley,Junior High-Intermediate-Middle,Dual Language,Chinese (Mandarin),General Education,Not Applicable,JANICE GEARY,JGeary@schools.nyc.gov
+20K310,20,The School For Future Leaders,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Yuqing Hong,YHong@schools.nyc.gov
+20K445,20,New Utrecht High School,High school,Transitional Bilingual Education,Arabic,General Education,Not Applicable,Svetlana Litvin,SLitvin@schools.nyc.gov
+20K445,20,New Utrecht High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Svetlana Litvin,SLitvin@schools.nyc.gov
+20K445,20,New Utrecht High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Svetlana Litvin,SLitvin@schools.nyc.gov
+20K490,20,Fort Hamilton High School,High school,Transitional Bilingual Education,Arabic,General Education,Not Applicable,Kaye Houlihan,KHoulih@schools.nyc.gov
+20K490,20,Fort Hamilton High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Kaye Houlihan,KHoulih@schools.nyc.gov
+20K490,20,Fort Hamilton High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Kaye Houlihan,KHoulih@schools.nyc.gov
+20K503,20,P.S. 503: The School of Discovery,Elementary,Dual Language,Spanish,General Education,Not Applicable,NINA DEMOS,NDemos@schools.nyc.gov
+20K503,20,P.S. 503: The School of Discovery,Elementary,Dual Language,Spanish,Special Education,ICT,NINA DEMOS,NDemos@schools.nyc.gov
+20K505,20,Franklin Delano Roosevelt High School,High school,Dual Language,Chinese,General Education,Not Applicable,Melanie Katz,MKatz10@schools.nyc.gov
+20K505,20,Franklin Delano Roosevelt High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Melanie Katz,MKatz10@schools.nyc.gov
+20K505,20,Franklin Delano Roosevelt High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Melanie Katz,MKatz10@schools.nyc.gov
+20K506,20,P.S. 506: The School of Journalism & Technology,Elementary,Dual Language,Spanish,General Education,Not Applicable,Dana Parentini,DParentini@schools.nyc.gov
+20K939,20,Sunset School of Cultural Learning,Elementary,Dual Language,Spanish,General Education,Not Applicable,Georgia Mousouroulis,GMousou@schools.nyc.gov
+21K090,21,P.S. 90 Edna Cohen School,Elementary,Dual Language,Spanish,General Education,Not Applicable,GRETA HAWKINS,GHawkins@schools.nyc.gov
+21K101,21,P.S. 101 The Verrazano,Elementary,Dual Language,Chinese,General Education,Not Applicable,GREGG KORROL,GKorrol@schools.nyc.gov
+21K225,21,P.S. K225 - The Eileen E. Zaglin,K-8,Dual Language,Spanish,General Education,Not Applicable,Susan Barone,SBarone3@schools.nyc.gov
+21K228,21,I.S. 228 David A. Boody,Junior High-Intermediate-Middle,Dual Language,Chinese,General Education,Not Applicable,DOMINICK DANGELO,DDAngelo3@schools.nyc.gov
+21K228,21,I.S. 228 David A. Boody,Junior High-Intermediate-Middle,Dual Language,Russian,General Education,Not Applicable,DOMINICK DANGELO,DDAngelo3@schools.nyc.gov
+21K228,21,I.S. 228 David A. Boody,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,DOMINICK DANGELO,DDAngelo3@schools.nyc.gov
+21K281,21,I.S. 281 Joseph B Cavallaro,Junior High-Intermediate-Middle,Dual Language,Chinese,General Education,Not Applicable,Maria Bender,MBender4@schools.nyc.gov
+21K303,21,I.S. 303 Herbert S. Eisenberg,Junior High-Intermediate-Middle,Dual Language,Russian,General Education,Not Applicable,Shanesha White Bailey,SWhiteBailey@schools.nyc.gov
+21K525,21,Edward R. Murrow High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Allen Barge,ABarge@schools.nyc.gov
+21K525,21,Edward R. Murrow High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Allen Barge,ABarge@schools.nyc.gov
+21K540,21,John Dewey High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Heather Adelle,HAdelle@schools.nyc.gov
+22K139,22,P.S. 139 Alexine A. Fenty,Elementary,Dual Language,Spanish,General Education,Not Applicable,Tamika Harding,THarding@schools.nyc.gov
+22K206,22,P.S. 206 Joseph F Lamb,K-8,Dual Language,Russian,General Education,Not Applicable,Ellen Quigley,EQuigle@schools.nyc.gov
+22K278,22,J.H.S. 278 Marine Park,Junior High-Intermediate-Middle,Transitional Bilingual Education,Russian,General Education,Not Applicable,Kerri Moser,KMoser2@schools.nyc.gov
+23K155,23,P.S./ I.S. 155 Nicholas Herkimer,K-8,Dual Language,Spanish,General Education,Not Applicable,MICHELLE MANNS,MManns2@schools.nyc.gov
+23K401,23,Christopher Avenue Community School,Elementary,Dual Language,Spanish,Special Education,ICT,DEON MITCHELL,DMitche5@schools.nyc.gov
+24Q005,24,I.S. 5 - The Walter Crowley Intermediate School,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Kelly Nepogoda,KDobson@schools.nyc.gov
+24Q005,24,I.S. 5 - The Walter Crowley Intermediate School,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Kelly Nepogoda,KDobson@schools.nyc.gov
+24Q007,24,P.S. 007 Louis F. Simeone,Elementary,Dual Language,Chinese,General Education,Not Applicable,Robert Aiello,RAiello@schools.nyc.gov
+24Q007,24,P.S. 007 Louis F. Simeone,Elementary,Dual Language,Spanish,General Education,Not Applicable,Robert Aiello,RAiello@schools.nyc.gov
+24Q012,24,P.S. 012 James B. Colgate,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Camillo Turriciano,CTurric@schools.nyc.gov
+24Q013,24,P.S. 013 Clement C. Moore,Elementary,Dual Language,Chinese,General Education,Not Applicable,Evelyn Velez,EVelez10@schools.nyc.gov
+24Q013,24,P.S. 013 Clement C. Moore,Elementary,Dual Language,Spanish,General Education,Not Applicable,Evelyn Velez,EVelez10@schools.nyc.gov
+24Q013,24,P.S. 013 Clement C. Moore,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01,Evelyn Velez,EVelez10@schools.nyc.gov
+24Q013,24,P.S. 013 Clement C. Moore,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Evelyn Velez,EVelez10@schools.nyc.gov
+24Q013,24,P.S. 013 Clement C. Moore,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,Evelyn Velez,EVelez10@schools.nyc.gov
+24Q014,24,P.S. 014 Fairview,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Heather Benson,HBenson2@schools.nyc.gov
+24Q014,24,P.S. 014 Fairview,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Heather Benson,HBenson2@schools.nyc.gov
+24Q014,24,P.S. 014 Fairview,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,Heather Benson,HBenson2@schools.nyc.gov
+24Q014,24,P.S. 014 Fairview,Elementary,Dual Language,Spanish,General Education,Not Applicable,Heather Benson,HBenson2@schools.nyc.gov
+24Q016,24,P.S. Q016 The Nancy DeBenedittis School,Elementary,Dual Language,Spanish,General Education,Not Applicable,ELAINE IODICE,EIodice@schools.nyc.gov
+24Q016,24,P.S. Q016 The Nancy DeBenedittis School,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,ELAINE IODICE,EIodice@schools.nyc.gov
+24Q019,24,P.S. 019 Marino Jeantet,Elementary,Dual Language,Spanish,General Education,Not Applicable,Krystle Jimenez,kjimenez18@schools.nyc.gov
+24Q019,24,P.S. 019 Marino Jeantet,Elementary,Dual Language,Spanish,Special Education,ICT,Krystle Jimenez,kjimenez18@schools.nyc.gov
+24Q019,24,P.S. 019 Marino Jeantet,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Krystle Jimenez,kjimenez18@schools.nyc.gov
+24Q019,24,P.S. 019 Marino Jeantet,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,Krystle Jimenez,kjimenez18@schools.nyc.gov
+24Q028,24,P.S. 28 - The Thomas Emanuel Early Childhood Center,Early Childhood,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Robert Quintana,RQuinta2@schools.nyc.gov
+24Q061,24,I.S. 061 Leonardo Da Vinci,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,JOSEPH LISA,JLisa@schools.nyc.gov
+24Q061,24,I.S. 061 Leonardo Da Vinci,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,JOSEPH LISA,JLisa@schools.nyc.gov
+24Q071,24,P.S. 071 Forest,Elementary,Dual Language,Polish,General Education,Not Applicable,Indiana Soto,ISoto6@schools.nyc.gov
+24Q073,24,I.S. 73 - The Frank Sansivieri Intermediate School,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Michael Casale,MCasale2@schools.nyc.gov
+24Q077,24,Joseph F. Quinn Intermediate School 77,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Giuseppina Napolitano,GNapoli2@schools.nyc.gov
+24Q081,24,P.S. 81Q Jean Paul Richter,Elementary,Dual Language,Spanish,Special Education,ICT,Romy Diamond,RDiamond@schools.nyc.gov
+24Q089,24,P.S. 089 Elmhurst,Elementary,Dual Language,Spanish,General Education,Not Applicable,Laura La Sala,LLaSala2@schools.nyc.gov
+24Q093,24,I.S. 093 Ridgewood,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,EDWARD SANTOS,ESantos3@schools.nyc.gov
+24Q102,24,P.S. 102 Bayview,K-8,Dual Language,Chinese,General Education,Not Applicable,CATHERINE WEINSTEIN,CWeinstein3@schools.nyc.gov
+24Q110,24,P.S. 110,Elementary,Dual Language,Spanish,General Education,Not Applicable,Elisa Gomez,EGomez4@schools.nyc.gov
+24Q110,24,P.S. 110,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Elisa Gomez,EGomez4@schools.nyc.gov
+24Q143,24,P.S. 143 Louis Armstrong,Elementary,Dual Language,Spanish,General Education,Not Applicable,Justine Lucas,JLucas5@schools.nyc.gov
+24Q143,24,P.S. 143 Louis Armstrong,Elementary,Dual Language,Spanish,Special Education,ICT,Justine Lucas,JLucas5@schools.nyc.gov
+24Q143,24,P.S. 143 Louis Armstrong,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Justine Lucas,JLucas5@schools.nyc.gov
+24Q143,24,P.S. 143 Louis Armstrong,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,Justine Lucas,JLucas5@schools.nyc.gov
+24Q153,24,P.S. 153 Maspeth Elem,Elementary,Dual Language,Polish,General Education,Not Applicable,David Berkowitz,DBerkowitz2@schools.nyc.gov
+24Q211,24,Elm Tree Elementary School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Kristen Niven,KNiven@schools.nyc.gov
+24Q211,24,Elm Tree Elementary School,Elementary,Dual Language,Spanish,Special Education,ICT,Kristen Niven,KNiven@schools.nyc.gov
+24Q311,24,Corona Arts & Sciences Academy,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Beth Hert,BHert@schools.nyc.gov
+24Q330,24,Helen M. Marshall School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Debra Rudolph,DRudolp@schools.nyc.gov
+24Q330,24,Helen M. Marshall School,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Debra Rudolph,DRudolp@schools.nyc.gov
+24Q419,24,New 2021 D.24 MS in Building Q419,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Soledad Montanes,SMontanes@schools.nyc.gov
+24Q455,24,Newtown High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,JOHN FICALORA,JFICALO@schools.nyc.gov
+24Q485,24,Grover Cleveland High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,MARC PASCENTE,MPascente@schools.nyc.gov
+25Q020,25,P.S. 020 John Bowne,Elementary,Dual Language,Chinese,General Education,Not Applicable,Elisa Barresi,EBarresi@schools.nyc.gov
+25Q020,25,P.S. 020 John Bowne,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Elisa Barresi,EBarresi@schools.nyc.gov
+25Q021,25,P.S. 021 Edward Hart,Elementary,Dual Language,Chinese,General Education,Not Applicable,Michael Swirsky,MSwirsky@schools.nyc.gov
+25Q021,25,P.S. 021 Edward Hart,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Michael Swirsky,MSwirsky@schools.nyc.gov
+25Q021,24,P.S. 021 Edward Hart,Elementary,Dual Language,Spanish,General Education,Not Applicable,Michael Swirsky,MSwirsky@schools.nyc.gov
+25Q022,25,P.S. 022 Thomas Jefferson,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Jennifer Meyer,JMeyer5@schools.nyc.gov
+25Q024,25,P.S. 024 Andrew Jackson,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,DEBRA CASSIDY,DCassid3@schools.nyc.gov
+25Q024,25,P.S. 024 Andrew Jackson,Elementary,Transitional Bilingual Education,Chinese,Special Education,12:01:01,DEBRA CASSIDY,DCassid3@schools.nyc.gov
+25Q029,25,P.S. 029 Queens,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Jill Leakey,JLeakey@schools.nyc.gov
+25Q032,25,P.S. 032 State Street,Elementary,Dual Language,Korean,General Education,Not Applicable,Debra Errico,DErrico@schools.nyc.gov
+25Q107,25,P.S. 107 Thomas A Dooley,Elementary,Dual Language,Spanish,General Education,Not Applicable,Lori Cummings,LCummings2@schools.nyc.gov
+25Q107,25,P.S. 107 Thomas A Dooley,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Lori Cummings,LCummings2@schools.nyc.gov
+25Q107,25,P.S. 107 Thomas A Dooley,Elementary,Transitional Bilingual Education,Chinese,Special Education,12:01:01,Lori Cummings,LCummings2@schools.nyc.gov
+25Q120,25,P.S. 120 Queens,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Robert Marino,RMarino4@schools.nyc.gov
+25Q120,25,P.S. 120 Queens,Elementary,Transitional Bilingual Education,Chinese,Special Education,12:01:01,Robert Marino,RMarino4@schools.nyc.gov
+25Q120,25,P.S. 120 Queens,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Robert Marino,RMarino4@schools.nyc.gov
+25Q129,25,P.S. 129 Patricia Larkin,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01,MARILYN ALESI,MAlesi@schools.nyc.gov
+25Q163,25,P.S. 163 Flushing Heights,Elementary,Dual Language,Chinese,General Education,Not Applicable,Francine Marsaggi,FMarsaggi@schools.nyc.gov
+25Q163,25,P.S. 163 Flushing Heights,Elementary,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Francine Marsaggi,FMarsaggi@schools.nyc.gov
+25Q163,25,P.S. 163 Flushing Heights,Elementary,Transitional Bilingual Education,Chinese,Special Education,12:01:01,Francine Marsaggi,FMarsaggi@schools.nyc.gov
+25Q185,25,J.H.S. 185 Edward Bleeker,Junior High-Intermediate-Middle,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Theresa Mshar,TMshar@schools.nyc.gov
+25Q189,25,J.H.S. 189 Daniel Carter Beard,Junior High-Intermediate-Middle,Dual Language,Chinese,General Education,Not Applicable,Brian Bradley,BBradley3@schools.nyc.gov
+25Q237,25,I.S. 237,Junior High-Intermediate-Middle,Transitional Bilingual Education,Chinese,General Education,Not Applicable,JUDITH FRIEDMAN,JFriedm@schools.nyc.gov
+25Q241,25,Queens High School for Language Studies,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Brian Bligh,BBligh@schools.nyc.gov
+25Q242,25,P.S. 242 Leonard P. Stavisky Early Childhood School,Early Childhood,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Jill Pritchard,JPritch2@schools.nyc.gov
+25Q244,25,The Active Learning Elementary School,Early Childhood,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Robert Groff,RGroff@schools.nyc.gov
+25Q425,25,John Bowne High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,Laura Izzo Iannelli,LIzzoiannelli@schools.nyc.gov
+25Q425,25,John Bowne High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Laura Izzo Iannelli,LIzzoiannelli@schools.nyc.gov
+25Q460,25,Flushing High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Ignazio Accardi,IAccard@schools.nyc.gov
+25Q540,25,Queens Academy High School,High school,Dual Language,Spanish,General Education,Not Applicable,JAMES MEMOLA JR,JMemolaJr@schools.nyc.gov
+26Q162,26,P.S. 162 John Golden,Elementary,Dual Language,Chinese,General Education,Not Applicable,EVE SCI,ESci@schools.nyc.gov
+26Q173,26,P.S. 173 Fresh Meadows,Elementary,Dual Language,Chinese,General Education,Not Applicable,Danielle Tweedy,DTweedy@schools.nyc.gov
+26Q430,26,Francis Lewis High School,High school,Transitional Bilingual Education,Chinese,General Education,Not Applicable,David Marmor,DMarmor@schools.nyc.gov
+27Q090,27,P.S. 090 Horace Mann,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,CANDRA SUTHERLAND,CSutherland@schools.nyc.gov
+27Q097,27,P.S. 097 Forest Park,Elementary,Dual Language,Spanish,General Education,Not Applicable,Yassine Aggoub,YAggoub@schools.nyc.gov
+27Q137,27,M.S. 137 America's School of Heroes,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Pamela Trincado,PTrincado@schools.nyc.gov
+27Q197,27,P.S. 197 The Ocean School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Christina Villavicencio,CVillav@schools.nyc.gov
+27Q210,27,J.H.S. 210 Elizabeth Blackwell,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,KULJIT SINGH,KSingh@schools.nyc.gov
+27Q223,27,P.S. 223 Lyndon B. Johnson,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,TEKESHA BABB,TBabb@schools.nyc.gov
+27Q253,27,P.S. 253,Elementary,Dual Language,Spanish,Special Education,ICT,JOANN KRUDIS,JKrudis@schools.nyc.gov
+27Q302,27,"Queens High School for Information, Research, and Technology",High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Mahendra Singh,MSingh8@schools.nyc.gov
+27Q324,27,Rockaway Park High School for Environmental Sustai,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Miriam Zambrano Lamhao,MZambranolamhaouhi@schools.nyc.gov
+27Q480,27,John Adams High School,High school,Transitional Bilingual Education,Bengali,General Education,Not Applicable,Pedro Cubero,PCubero@schools.nyc.gov
+27Q480,27,John Adams High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Pedro Cubero,PCubero@schools.nyc.gov
+28Q082,28,P.S. 082 Hammond,Elementary,Dual Language,Spanish,General Education,Not Applicable,Grisel Rodriguez,GRodriguez11@schools.nyc.gov
+28Q086,28,P.S. Q086,Elementary,Dual Language,Spanish,General Education,Not Applicable,Rosita Rivera,RRivera15@schools.nyc.gov
+28Q287,28,The Emerson School,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Jakub Lau,JLau@schools.nyc.gov
+28Q354,28,The Jermaine L. Green STEM Institute of Queens,Elementary,Dual Language,Spanish,General Education,Not Applicable,Emmanuela Remy,ERemy@schools.nyc.gov
+28Q440,28,Forest Hills High School,High school,Dual Language,Spanish,General Education,Not Applicable,PAUL WILBUR,PWilbur@schools.nyc.gov
+28Q505,28,Hillcrest High School,High school,Transitional Bilingual Education,Bengali,General Education,Not Applicable,Scott Milczewski,SMilczewski@schools.nyc.gov
+28Q505,28,Hillcrest High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Scott Milczewski,SMilczewski@schools.nyc.gov
+29Q095,29,P.S. 095 Eastwood,Elementary,Dual Language,Spanish,General Education,Not Applicable,Kim Hill,KHill@schools.nyc.gov
+29Q095,29,P.S. 095 Eastwood,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Kim Hill,KHill@schools.nyc.gov
+30Q017,30,P.S. 017 Henry David Thoreau,Elementary,Dual Language,Spanish,General Education,Not Applicable,Rebecca Heyward,RHeyward@schools.nyc.gov
+30Q076,30,P.S. 076 William Hallet,Elementary,Dual Language,Spanish,General Education,Not Applicable,Timothy Miller,TMiller15@schools.nyc.gov
+30Q092,30,P.S. 092 Harry T. Stewart Sr.,Elementary,Dual Language,Spanish,General Education,Not Applicable,Daisy Morales,DMorales29@schools.nyc.gov
+30Q092,30,P.S. 092 Harry T. Stewart Sr.,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Daisy Morales,DMorales29@schools.nyc.gov
+30Q092,30,P.S. 092 Harry T. Stewart Sr.,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Daisy Morales,DMorales29@schools.nyc.gov
+30Q112,30,P.S. 112 Dutch Kills,Elementary,Dual Language,Spanish,General Education,Not Applicable,DOV WITKES,DWitkes@schools.nyc.gov
+30Q127,30,P.S. 127 Aerospace Science Magnet School,K-8,Dual Language,Spanish,General Education,Not Applicable,EVA DELGADO SANABRI,edelgadosanabria@schools.nyc.gov
+30Q145,30,I.S. 145 Joseph Pulitzer,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,IVAN RODRIGUEZ,IFRodrig@schools.nyc.gov
+30Q145,30,I.S. 145 Joseph Pulitzer,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,IVAN RODRIGUEZ,IFRodrig@schools.nyc.gov
+30Q148,30,P.S. 148 Queens,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,YOLANDA HARVEY,YHarvey@schools.nyc.gov
+30Q148,30,P.S. 148 Queens,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,YOLANDA HARVEY,YHarvey@schools.nyc.gov
+30Q149,30,P.S. 149 Christa McAuliffe,Elementary,Dual Language,Spanish,General Education,Not Applicable,Onalis Hernandez,OHernan3@schools.nyc.gov
+30Q150,30,P.S. 150 Queens,Elementary,Dual Language,Spanish,General Education,Not Applicable,CARMEN PARACHE,CParache@schools.nyc.gov
+30Q152,30,P.S. 152 Gwendoline N. Alleyne School,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Lisa Russo,lrusso5@schools.nyc.gov
+30Q166,30,P.S. 166 Henry Gradstein,Elementary,Dual Language,Spanish,General Education,Not Applicable,Jessica Geller,jgeller6@schools.nyc.gov
+30Q204,30,I.S. 204 Oliver W. Holmes,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Faye Erstejn Kotzer,FKotzer@schools.nyc.gov
+30Q204,30,I.S. 204 Oliver W. Holmes,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Faye Erstejn Kotzer,FKotzer@schools.nyc.gov
+30Q204,30,I.S. 204 Oliver W. Holmes,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Faye Erstejn Kotzer,FKotzer@schools.nyc.gov
+30Q212,30,P.S. 212,Elementary,Dual Language,Spanish,General Education,Not Applicable,Laura Miniero,LMiniero@schools.nyc.gov
+30Q222,30,P.S. Q222 - Fire Fighter Christopher A. Santora School,Early Childhood,Dual Language,Spanish,General Education,Not Applicable,YVONNE MARRERO,YMarrero@schools.nyc.gov
+30Q228,30,The Ivan Lafayette Early Childhood School of the Arts,Early Childhood,Dual Language,Spanish,General Education,Not Applicable,OLGA GUZMAN,OGuzman@schools.nyc.gov
+30Q228,30,The Ivan Lafayette Early Childhood School of the Arts,Early Childhood,Dual Language,Spanish,Special Education,ICT,OLGA GUZMAN,OGuzman@schools.nyc.gov
+30Q228,30,The Ivan Lafayette Early Childhood School of the Arts,Early Childhood,Transitional Bilingual Education,Spanish,Special Education,12:01:01,OLGA GUZMAN,OGuzman@schools.nyc.gov
+30Q235,30,Academy for New Americans,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Lisa Lin,CLin2@schools.nyc.gov
+30Q280,30,PS280Q: Home of the Lionhearts,Elementary,Dual Language,Spanish,General Education,Not Applicable,Milagros Dueno,MDueno@schools.nyc.gov
+30Q329,30,East Elmhurst Community School,Elementary,Dual Language,Spanish,General Education,Not Applicable,RACHEL STAROBA-HALLENB,RStarobaHallenbeck@schools.nyc.gov
+30Q398,30,The Hector Figueroa School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Erica Urena Thus,EUrenaT@schools.nyc.gov
+30Q445,30,William Cullen Bryant High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Carlyn St. Aubain,cstaubain@schools.nyc.gov
+30Q450,30,Long Island City High School,High school,Dual Language,Spanish,General Education,Not Applicable,Vivian Selenikas,VSeleni@schools.nyc.gov
+30Q555,30,Newcomers High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Elizabeth Messmann,EMessmann@schools.nyc.gov
+30Q555,30,Newcomers High School,High school,Dual Language,Spanish,General Education,Not Applicable,Elizabeth Messmann,EMessmann@schools.nyc.gov
+31R016,31,P.S. 016 John J. Driscoll,Elementary,Dual Language,Spanish,General Education,Not Applicable,Michele Ramos,MRamos8@schools.nyc.gov
+31R019,31,P.S. 019 The Curtis School,Elementary,Dual Language,Spanish,General Education,Not Applicable,LYNETTE PEREZ,lperez82@schools.nyc.gov
+31R020,31,P.S. 020 Port Richmond,Elementary,Dual Language,Spanish,Special Education,ICT,Erica Padin,EPadin@schools.nyc.gov
+31R020,31,P.S. 020 Port Richmond,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Erica Padin,EPadin@schools.nyc.gov
+31R022,31,P.S. 022 Graniteville,Elementary,Dual Language,Spanish,General Education,Not Applicable,MELISSA LAMB DONATH,MDonath@schools.nyc.gov
+31R022,31,P.S. 022 Graniteville,Elementary,Dual Language,Spanish,Special Education,ICT,MELISSA LAMB DONATH,MDonath@schools.nyc.gov
+31R022,31,P.S. 022 Graniteville,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01,MELISSA LAMB DONATH,MDonath@schools.nyc.gov
+31R022,31,P.S. 022 Graniteville,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,MELISSA LAMB DONATH,MDonath@schools.nyc.gov
+31R022,31,P.S. 022 Graniteville,Elementary,Transitional Bilingual Education,Spanish,Special Education,ICT,MELISSA LAMB DONATH,MDonath@schools.nyc.gov
+31R041,31,The Stephanie A. Vierno School,Elementary,Dual Language,Spanish,General Education,Not Applicable,Jennifer Logan,JLogan7@schools.nyc.gov
+31R044,31,P.S. 044 Thomas C. Brown,Elementary,Dual Language,Spanish,General Education,Not Applicable,Nancy Storms,NStorms@schools.nyc.gov
+31R051,31,I.S. 051 Edwin Markham,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Nicholas Mele,NMele2@schools.nyc.gov
+31R057,31,P.S. 057 Hubert H. Humphrey,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Karyn Singleton,ksingleton9@schools.nyc.gov
+31R061,31,I.S. 061 William A Morris,Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Kuzaliwa Campbell,KCampbell@schools.nyc.gov
+31R084,31,The Waverly Academy of Empowered Learners,Elementary,Dual Language,Spanish,Special Education,ICT,Kamorudeen Olayokun jr,KOlayokunJr@schools.nyc.gov
+31R450,31,Curtis High School,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Gregory Jaenicke,GJaenicke@schools.nyc.gov
+32K075,32,P.S. 075 Mayda Cortiella,Elementary,Dual Language,Spanish,Special Education,ICT,Yolanda Williams,YWillia@schools.nyc.gov
+32K086,32,P.S. 086 The Irvington,Elementary,Dual Language,Spanish,General Education,Not Applicable,Tina Moschella Andre,TMoschella@schools.nyc.gov
+32K106,32,P.S. 106 Edward Everett Hale,Elementary,Dual Language,Spanish,General Education,Not Applicable,Magaly Moncayo,MMoncayo@schools.nyc.gov
+32K106,32,P.S. 106 Edward Everett Hale,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Magaly Moncayo,MMoncayo@schools.nyc.gov
+32K106,32,P.S. 106 Edward Everett Hale,Elementary,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Magaly Moncayo,MMoncayo@schools.nyc.gov
+32K116,32,P.S. 116 Elizabeth L Farrell,Elementary,Dual Language,Spanish,General Education,Not Applicable,Catherine Garzon,CGarzon2@schools.nyc.gov
+32K123,32,P.S. 123 Suydam,Elementary,Dual Language,Spanish,General Education,Not Applicable,Donna Marie Stalzer,DStalzer2@schools.nyc.gov
+32K145,32,P.S. 145 Andrew Jackson,Elementary,Dual Language,Spanish,General Education,Not Applicable,Julia Hynes,JHynes@schools.nyc.gov
+32K151,32,P.S. 151 Lyndon B. Johnson,Elementary,Dual Language,Spanish,General Education,Not Applicable,JAYNE HUNT,JHunt2@schools.nyc.gov
+32K162,32,J.H.S. 162 The Willoughby,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,AMANDA LAZERSON,ALazerson@schools.nyc.gov
+32K274,32,P.S. 274 Kosciusko,Elementary,Dual Language,Spanish,General Education,Not Applicable,MARITZA OLLIVIERRA JONE,MOllivi@schools.nyc.gov
+32K291,32,J.H.S. 291 Roland Hayes,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Janice Bruce,JBruce2@schools.nyc.gov
+32K291,32,J.H.S. 291 Roland Hayes,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,Special Education,12:01:01,Janice Bruce,JBruce2@schools.nyc.gov
+32K299,32,P.S. 299 Thomas Warren Field,Elementary,Dual Language,Spanish,General Education,Not Applicable,CARLEEN MILLER BAILEY,CMiller11@schools.nyc.gov
+32K299,32,P.S. 299 Thomas Warren Field,Elementary,Transitional Bilingual Education,Spanish,General Education,Not Applicable,CARLEEN MILLER BAILEY,CMiller11@schools.nyc.gov
+32K347,32,I.S. 347 School of Humanities,Junior High-Intermediate-Middle,Transitional Bilingual Education,Spanish,General Education,Not Applicable,JOHN BARBELLA,JBarbel@schools.nyc.gov
+32K349,32,"I.S. 349 Math, Science & Tech.",Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Roxana Toro,RToro6@schools.nyc.gov
+32K349,32,"I.S. 349 Math, Science & Tech.",Junior High-Intermediate-Middle,Dual Language,Spanish,Special Education,ICT,Roxana Toro,RToro6@schools.nyc.gov
+32K376,32,P.S. 376,Elementary,Dual Language,Spanish,General Education,Not Applicable,Natalie Perez,NPerez42@schools.nyc.gov
+32K383,32,J.H.S. 383 Philippa Schuyler,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Jeanette Wigdorsky,JWigdorsky@schools.nyc.gov
+32K384,32,P.S. /I.S. 384 Frances E. Carter,K-8,Dual Language,Spanish,General Education,Not Applicable,Claudia Harris,CHarris19@schools.nyc.gov
+32K384,32,P.S. /I.S. 384 Frances E. Carter,K-8,Dual Language,Spanish,Special Education,ICT,Claudia Harris,CHarris19@schools.nyc.gov
+32K549,32,The Brooklyn School for Social Justice,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,Patrick Cooper,PCooper6@schools.nyc.gov
+32K562,32,Evergreen Middle School for Urban Exploration,Junior High-Intermediate-Middle,Dual Language,Spanish,General Education,Not Applicable,Lauren Reiss,LReiss@schools.nyc.gov
+75K231,75,P.S. K231,K-8,Transitional Bilingual Education,Chinese,Special Education,6:01:01,ELIZABETH RUEDA MATTOCK,ERueda@schools.nyc.gov
+75K370,75,P.S. 370,K-12 all grades,Transitional Bilingual Education,Yiddish,Special Education,12:01:01,SUSAN MILLER,SMiller60@schools.nyc.gov
+75K373,75,P.S. 373 - Brooklyn Transition Center,High school,Dual Language,Spanish,Special Education,12:01:01,COURTNEY RATTENBURY,CRattenbury@schools.nyc.gov
+75K373,75,P.S. 373 - Brooklyn Transition Center,High school,Transitional Bilingual Education,Spanish,Special Education,12:01:01,COURTNEY RATTENBURY,CRattenbury@schools.nyc.gov
+75K396,75,Sid Miller Academy,K-8,Transitional Bilingual Education,Yiddish,Special Education,12:01:04,KEISHA MCCOY DAILEY,KMccoydailey@schools.nyc.gov
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,K-12 all grades,Transitional Bilingual Education,Chinese,Special Education,12:01:01,BARBARA TREMBLAY,BTrembl@schools.nyc.gov
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,K-12 all grades,Transitional Bilingual Education,Chinese,Special Education,6:01:01,BARBARA TREMBLAY,BTrembl@schools.nyc.gov
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,12:01:01,BARBARA TREMBLAY,BTrembl@schools.nyc.gov
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,12:01:04,BARBARA TREMBLAY,BTrembl@schools.nyc.gov
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,6:01:01,BARBARA TREMBLAY,BTrembl@schools.nyc.gov
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,K-12 all grades,Transitional Bilingual Education,Yiddish,Special Education,12:01:01,BARBARA TREMBLAY,BTrembl@schools.nyc.gov
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,K-12 all grades,Transitional Bilingual Education,Yiddish,Special Education,6:01:01,BARBARA TREMBLAY,BTrembl@schools.nyc.gov
+75K753,75,P.S. K753 - School for Career Development,High school,Transitional Bilingual Education,Haitian Creole,General Education,Not Applicable,YVROSE PIERRE,YPierre4@schools.nyc.gov
+75K811,75,P.S. K811 Connie Lekas School,Secondary School,Transitional Bilingual Education,Spanish,Special Education,12:01:04,ANTOINETTE ROSE,ARose3@schools.nyc.gov
+75M079,75,P.S. M079 - Horan School,Secondary School,Transitional Bilingual Education,Spanish,Special Education,12:01:01,GREER PHILLIPS,GPhillips@schools.nyc.gov
+75M079,75,P.S. M079 - Horan School,Secondary School,Transitional Bilingual Education,Spanish,Special Education,6:01:01,GREER PHILLIPS,GPhillips@schools.nyc.gov
+75Q277,75,The Riverview School,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,8:01:01,ANNETTE BEALE,ABeale@schools.nyc.gov
+75Q811,75,P.S. Q811,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,12:01:04,Nicole Avila,NAvila@schools.nyc.gov
+75X010,75,P.S. X010,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,6:01:01,Christophe Reda,CReda@schools.nyc.gov
+75X017,75,P.S. X017,K-8,Transitional Bilingual Education,Spanish,Special Education,6:01:01,ANGELA JONES,ajones80@schools.nyc.gov
+75X168,75,P.S. 168,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,12:01:01,MAUREEN FULLERTON,MFuller@schools.nyc.gov
+75X168,75,P.S. 168,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,6:01:01,MAUREEN FULLERTON,MFuller@schools.nyc.gov
+75X168,75,P.S. 168,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,8:01:01,MAUREEN FULLERTON,MFuller@schools.nyc.gov
+75X186,75,P186X Walter J. Damrosch School,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,12:01:01,SARAH TEMPLEMAN,STempleman@schools.nyc.gov
+75X188,75,P.S. X188,K-12 all grades,Transitional Bilingual Education,Spanish,Special Education,12:01:01,SHANIE JOHNSON SMITH B,SJohnso28@schools.nyc.gov
+75X469,75,P469X - The Bronx School for Continuous Learners,K-8,Transitional Bilingual Education,Spanish,Special Education,8:01:01,Janine Tubiolo,JTubiolo@schools.nyc.gov
+75X596,75,P.S. X596,Elementary,Transitional Bilingual Education,Spanish,Special Education,6:01:01,JOHN SIRACUSE,JSiracuse@schools.nyc.gov
+75X721,75,P.S. X721 - Stephen McSweeney School,High school,Transitional Bilingual Education,Spanish,Special Education,12:01:01,SARA BYAS ARACENA,SByasaracena@schools.nyc.gov
+75X721,75,P.S. X721 - Stephen McSweeney School,High school,Transitional Bilingual Education,Spanish,Special Education,6:01:01,SARA BYAS ARACENA,SByasaracena@schools.nyc.gov
+75X754,75,J. M. Rapport School Career Development,High school,Transitional Bilingual Education,Spanish,Special Education,12:01:01,DANIEL HOEHN,DHoehn2@schools.nyc.gov
+75X811,75,P.S. X811,Secondary School,Transitional Bilingual Education,Spanish,Special Education,12:01:01,JENNIFER CURRIE,JCurrie@schools.nyc.gov
+75X811,75,P.S. X811,Secondary School,Transitional Bilingual Education,Spanish,Special Education,12:01:04,JENNIFER CURRIE,JCurrie@schools.nyc.gov
+75X811,75,P.S. X811,Secondary School,Transitional Bilingual Education,Spanish,Special Education,6:01:01,JENNIFER CURRIE,JCurrie@schools.nyc.gov
+79M973,79,Restart Academy,Ungraded,Transitional Bilingual Education,Spanish,General Education,Not Applicable,#N/A,#N/A
+79Q950,79,Pathways to Graduation,High school,Transitional Bilingual Education,Spanish,General Education,Not Applicable,#N/A,#N/A
